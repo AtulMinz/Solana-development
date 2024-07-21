@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.1",
+    "esrun": "^3.2.26"
+  },
+  "name": "solana-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-balance": "npx esrun scripts/get-balance.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
