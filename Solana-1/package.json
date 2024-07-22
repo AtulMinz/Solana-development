@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
     "@solana/web3.js": "^1.95.1",
     "esrun": "^3.2.26"
   },
@@ -9,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "get-balance": "npx esrun scripts/get-balance.ts"
+    "get-balance": "npx esrun scripts/get-balance.ts",
+    "transfer": "npx esrun scripts/transfer.ts"
   },
   "keywords": [],
   "author": "",
