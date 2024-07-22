@@ -12,7 +12,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "get-balance": "npx esrun scripts/get-balance.ts",
-    "transfer": "tsc -b && node dist/transfer.js"
+    "transfer": "tsc -b && node dist/transfer.js",
+    "create-mint-token": "npx esrun scripts/create-mint-token.ts"
   },
   "keywords": [],
   "author": "",
