@@ -2,5 +2,11 @@
     "name": "FAITH",
     "symbol": "YSHU",
     "description": "Faith in GOD",
-    "image": 
+    "image": "https://i.pinimg.com/736x/23/0d/31/230d310f5bf7810aeced9ecb7d665e7f.jpg",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
 }
