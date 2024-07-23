@@ -2,7 +2,7 @@
     "name": "FAITH",
     "symbol": "YSHU",
     "description": "Faith in GOD",
-    "image": "https://i.pinimg.com/736x/23/0d/31/230d310f5bf7810aeced9ecb7d665e7f.jpg",
+    "image": "https://raw.githubusercontent.com/AtulMinz/Solana-development/main/Solana-1/scripts/metadata/god.png",
     "attributes": [
         {
             "trait_type": "Item",
