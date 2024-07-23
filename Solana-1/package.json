@@ -13,10 +13,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "get-balance": "npx esrun scripts/get-balance.ts",
-    "transfer": "tsc -b && node dist/transfer.js",
-    "create-mint-token": "npx esrun scripts/create-mint-token.ts",
-    "mpl-token": "npx esrun scripts/mpl-token-metadata.ts"
+    "get-balance": "bun scripts/get-balance.ts",
+    "transfer": "bun scripts/transfer.ts",
+    "create-mint-token": "bun scripts/create-mint-token.ts",
+    "mpl-token": "bun scripts/mpl-token-metadata.ts"
   },
   "keywords": [],
   "author": "",
